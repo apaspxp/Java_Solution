@@ -1,6 +1,6 @@
 public class Tawa {
     public static void test1(){
-        System.out.println("Within test1 method");
+        System.out.println("Within test1() method");
     }
 }
 
